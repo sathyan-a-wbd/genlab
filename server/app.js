@@ -8,7 +8,10 @@ const taskRoutes = require("./routes/taskRoutes");
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: [
+      "https://vercel.com/sathyan-a-wbds-projects/genlab/8uXMKD59zEYpXFyPebX5gHw2n22a",
+      "http://localhost:5173",
+    ],
   }),
 );
 
