@@ -1,8 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-  // baseURL: "https://genlab-1.onrender.com/api",
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://genlab-2.onrender.com/api",
+  // baseURL: "http://localhost:5000/api",
   headers: {
     "Content-Type": "application/json",
   },
