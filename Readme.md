@@ -43,15 +43,6 @@ The dashboard displays:
 - In-progress tasks
 - Overdue tasks
 
-### 🔎 Search & Filtering
-
-- Search tasks by title
-- Filter by status
-- Filter by priority
-- Filter by assigned user
-- Sort tasks
-- Pagination
-
 ### 👥 User Management
 
 - User-based task access
