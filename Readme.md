@@ -4,8 +4,8 @@ A full-stack **Task Management System** built using the **MERN Stack**. The appl
 
 ## 🌐 Live Demo
 
-- **Frontend:** [Add your Vercel URL here](https://genlab-ecntq8qbd-sathyan-a-wbds-projects.vercel.app/)
-- **Backend API:** [Add your Render URL here](https://genlab-2.onrender.com)
+- **Frontend:** [https://genlab-ecntq8qbd-sathyan-a-wbds-projects.vercel.app/](https://genlab-ecntq8qbd-sathyan-a-wbds-projects.vercel.app/)
+- **Backend API:** [https://genlab-2.onrender.com](https://genlab-2.onrender.com)
 
 ---
 
